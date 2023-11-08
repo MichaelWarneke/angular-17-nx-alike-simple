@@ -1,4 +1,7 @@
-# Test
+# NX alike scaffolding with Angular 17
+
+
+# Steps to recreate and further development
 
 ### Create new workspace
 ng new test --package-manager yarn --ssr --style scss --strict --create-application false --new-project-root projects/libs --skip-install
