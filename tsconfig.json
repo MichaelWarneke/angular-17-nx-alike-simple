@@ -8,6 +8,12 @@
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
+    "paths": {
+      "layout": [
+        "./dist/layout",
+        "./projects/libs/layout/src"
+      ]
+    },
     "noFallthroughCasesInSwitch": true,
     "esModuleInterop": true,
     "sourceMap": true,
