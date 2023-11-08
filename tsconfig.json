@@ -9,7 +9,7 @@
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
     "paths": {
-      "layout": [
+      "@my-layout": [
         "./dist/layout",
         "./projects/libs/layout/src"
       ]
